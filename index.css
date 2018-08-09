@@ -1,0 +1,19 @@
+*{
+    background-image: url("https://images.unsplash.com/photo-1501856054482-8b7fbff7b3fe?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a913b90d49dbe645ffe5a9e18e60d657&auto=format&fit=crop&w=1568&q=80");
+    background-color: aquamarine;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding-left: 6px;
+    padding-right: 6px;
+    color:whitesmoke;
+    
+      
+}
+.row{
+    font-size: 1.2em;
+    text-align: center;
+}
+.col-md-3:nth-child(1){
+    text-align: left;
+}
