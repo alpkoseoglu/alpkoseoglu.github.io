@@ -8,6 +8,7 @@ body {
   margin: 0;
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
+  overflow: hidden;
 }
 
 .cover {
@@ -38,7 +39,6 @@ ul {
   justify-content: space-around;
   padding: 15vh;
   margin-top: 4rem;
-  transition: 0.8s;
   animation-duration: 5s;
   animation-name: slowlyAppear;
 }
@@ -49,6 +49,7 @@ ul > li {
   justify-content: center;
   align-items: center;
   margin-top: 5rem;
+  transition: 5s;
 }
 a {
   transition: 1s;
